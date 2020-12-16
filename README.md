@@ -2,3 +2,5 @@
 <br/>
 
 * First fold (train-original, test-original) acc is 99.88 %
+* Second fold (train-original, test-original) acc is 99.89 %
+* train-original and test-original acc is 99.88 %
