@@ -14,3 +14,6 @@
 * First fold (train-original, test-generated) acc is 99.77 % (se_resnet)
 * Second fold (train-original, test-generated) acc is 99.63 % (se_resnet)
 * train-original and test-generated acc is 99.7 % (se_resnet)
+<br/>
+
+* First fold (train-original, test-generated) acc is 98.66 % (inception_v4)
