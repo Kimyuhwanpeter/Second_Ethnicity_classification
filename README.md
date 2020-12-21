@@ -17,3 +17,5 @@
 <br/>
 
 * First fold (train-original, test-generated) acc is 98.66 % (inception_v4)
+* Second fold (train-original, test-generated) acc is 98.97 % (inception_v4)
+* train-original, test-generated acc is 98.82 % (inception_v4)
