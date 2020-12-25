@@ -35,3 +35,6 @@
 * First fold (train-original, test-generated) acc is 98.93 % (VGG-16_bn)
 * Second fold (train-original, test-generated) acc is 98.96 % (VGG-16_bn)
 * train-original, test-generated acc is 98.94 % (VGG-16_bn)
+<br/>
+
+* First fold (train-original, test-generated) acc is 98.29 % (VGG-19_bn)
